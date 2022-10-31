@@ -1,1 +1,1 @@
-"# git_yandex" 
+# git_yandex
