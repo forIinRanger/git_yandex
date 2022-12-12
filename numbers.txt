@@ -1,7 +1,8 @@
-4 
-5 
-6 
-7 
-8 
-9 
-0
+git branch branch4567890
+git checkout branch4567890
+(echo 4 & echo 5 & echo 6 & echo 7 & echo 8 & echo 9 & echo 0) > numbers.txt
+git add numbers.txt
+git commit -m "4567890 круче 1234567"
+git checkout master
+git merge branch1234567
+git merge branch4567890
